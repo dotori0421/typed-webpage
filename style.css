@@ -6,15 +6,18 @@ h1 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+    font-family: Arial;
 }
 
 body {
     font-size: 18px;
     text-align: center;
+    font-family: Arial;
 }
 
 p {
     display: block;
+    font-family: Arial;
     margin-block: 1em;
     margin-inline: 0px;
 }
@@ -25,4 +28,8 @@ p {
 
 div {
     display: block;
+}
+
+img {
+    padding: 10px;
 }
